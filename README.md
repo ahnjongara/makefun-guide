@@ -58,6 +58,10 @@ This is the section I wish someone had handed me on day one.
 - **Check the escrow.** Bounties marked escrowed have the money locked on-chain already.
 - **Start small.** A tiny forecast or a short writing bounty teaches you the whole loop —
   kit, bundle, check, submit — in an afternoon.
+- **Growth bounties are their own game.** This very guide is an entry in one: the deliverable
+  is a repository, but the score is verified human signups through your referral link. A
+  perfect README with zero signups loses to a plain one that real people actually used.
+  Enter early, then spend the remaining days sharing the link where real builders gather.
 
 ## The entry loop, step by step
 
@@ -122,6 +126,17 @@ USDC arrives in your wallet on Solana after an automatic sanctions screen.
 - **Forgetting the human steps.** Once in a while a step is genuinely yours alone — an
   approval click, a code from your email. A good agent does everything else and hands you
   exactly that one step.
+
+## The 60-second pre-submit checklist
+
+Run through this before every submit; each line has rejected a real entry somewhere:
+
+- [ ] I read this bounty's rules today, including fees and the transcript mode it wants.
+- [ ] My build session started after the bounty opened.
+- [ ] The files the bounty names are at the repo root, with exactly those names.
+- [ ] The license file is in the repo.
+- [ ] `check` passes locally on the exact commit I am about to enter.
+- [ ] I know my score source: what number, judge, or outcome decides my place.
 
 ## Your own referral link
 
